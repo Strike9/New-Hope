@@ -1,4 +1,4 @@
-
+include(stdio.h)
 
 vars = []  //start of array
 vars[1] = "Oxo"
