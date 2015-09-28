@@ -1,6 +1,6 @@
 
 
-vars = []
+vars = []  //start of array
 vars[1] = "Oxo"
 vars[2] = "OXO"
 vars[3] = "123454321"
